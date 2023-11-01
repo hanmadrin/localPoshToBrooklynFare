@@ -1,0 +1,883 @@
+{
+    "id": 6595064102963,
+    "title": "Pink Cheetah Cara Tee",
+    "handle": "pink-cheetah-cara-tee-fw21",
+    "description": "<p>Who has never dreamed of being a cheetah girl? Our new Cara tee shirt is here and is certain to be a favorite. This girls solid long sleeve tee shirt is perfect to transition into Fall with. Pair with our Alyssa legging for a comfy look, or with our Flocked Leopard Dillon Pant for more fun. Either way, it's a look she'll love!</p>\n<p>Hand wash. Only non-chorine bleach when needed. Tumble dry, cool iron if needed. 52% Cotton 42% Modal 6% Spandex.</p>",
+    "published_at": "2023-08-30T12:46:24-04:00",
+    "created_at": "2021-08-19T17:21:08-04:00",
+    "vendor": "Egg",
+    "type": "Top",
+    "tags": [
+        "age:baby",
+        "category:tees",
+        "delivery:2",
+        "fall23:1",
+        "ff-march23",
+        "full-price",
+        "FW23:DEL1",
+        "gender:girls",
+        "holiday-deals",
+        "new-arrivals",
+        "PO:PO707",
+        "season:FW2023",
+        "style-number:W221JE1085",
+        "trend:animal",
+        "upload:8-19-21",
+        "winter"
+    ],
+    "price": 5500,
+    "price_min": 5500,
+    "price_max": 5500,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+        {
+            "id": 39499987025971,
+            "title": "Grey / 12 mo",
+            "option1": "Grey",
+            "option2": "12 mo",
+            "option3": null,
+            "sku": "840070676404",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 28227103752243,
+                "product_id": 6595064102963,
+                "position": 1,
+                "created_at": "2021-08-24T00:24:22-04:00",
+                "updated_at": "2021-08-24T00:24:22-04:00",
+                "alt": null,
+                "width": 2000,
+                "height": 2000,
+                "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062",
+                "variant_ids": [
+                    39499987025971,
+                    39499987058739,
+                    39499987091507,
+                    39499987124275,
+                    39499987157043,
+                    39499987189811,
+                    39499987222579,
+                    39499987255347,
+                    39499987288115,
+                    39499987320883,
+                    39499987353651,
+                    39499987386419
+                ]
+            },
+            "available": true,
+            "name": "Pink Cheetah Cara Tee - Grey / 12 mo",
+            "public_title": "Grey / 12 mo",
+            "options": [
+                "Grey",
+                "12 mo"
+            ],
+            "price": 5500,
+            "weight": 136,
+            "compare_at_price": null,
+            "inventory_management": "shopify",
+            "barcode": "840070676404",
+            "featured_media": {
+                "alt": null,
+                "id": 20478954504243,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 2000,
+                    "width": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062"
+                }
+            },
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "quantity_price_breaks": [],
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 39499987058739,
+            "title": "Grey / 18 mo",
+            "option1": "Grey",
+            "option2": "18 mo",
+            "option3": null,
+            "sku": "840070676435",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 28227103752243,
+                "product_id": 6595064102963,
+                "position": 1,
+                "created_at": "2021-08-24T00:24:22-04:00",
+                "updated_at": "2021-08-24T00:24:22-04:00",
+                "alt": null,
+                "width": 2000,
+                "height": 2000,
+                "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062",
+                "variant_ids": [
+                    39499987025971,
+                    39499987058739,
+                    39499987091507,
+                    39499987124275,
+                    39499987157043,
+                    39499987189811,
+                    39499987222579,
+                    39499987255347,
+                    39499987288115,
+                    39499987320883,
+                    39499987353651,
+                    39499987386419
+                ]
+            },
+            "available": true,
+            "name": "Pink Cheetah Cara Tee - Grey / 18 mo",
+            "public_title": "Grey / 18 mo",
+            "options": [
+                "Grey",
+                "18 mo"
+            ],
+            "price": 5500,
+            "weight": 136,
+            "compare_at_price": null,
+            "inventory_management": "shopify",
+            "barcode": "840070676435",
+            "featured_media": {
+                "alt": null,
+                "id": 20478954504243,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 2000,
+                    "width": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062"
+                }
+            },
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "quantity_price_breaks": [],
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 39499987091507,
+            "title": "Grey / 2T",
+            "option1": "Grey",
+            "option2": "2T",
+            "option3": null,
+            "sku": "840070676442",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 28227103752243,
+                "product_id": 6595064102963,
+                "position": 1,
+                "created_at": "2021-08-24T00:24:22-04:00",
+                "updated_at": "2021-08-24T00:24:22-04:00",
+                "alt": null,
+                "width": 2000,
+                "height": 2000,
+                "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062",
+                "variant_ids": [
+                    39499987025971,
+                    39499987058739,
+                    39499987091507,
+                    39499987124275,
+                    39499987157043,
+                    39499987189811,
+                    39499987222579,
+                    39499987255347,
+                    39499987288115,
+                    39499987320883,
+                    39499987353651,
+                    39499987386419
+                ]
+            },
+            "available": true,
+            "name": "Pink Cheetah Cara Tee - Grey / 2T",
+            "public_title": "Grey / 2T",
+            "options": [
+                "Grey",
+                "2T"
+            ],
+            "price": 5500,
+            "weight": 136,
+            "compare_at_price": null,
+            "inventory_management": "shopify",
+            "barcode": "840070676442",
+            "featured_media": {
+                "alt": null,
+                "id": 20478954504243,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 2000,
+                    "width": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062"
+                }
+            },
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "quantity_price_breaks": [],
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 39499987124275,
+            "title": "Grey / 3T",
+            "option1": "Grey",
+            "option2": "3T",
+            "option3": null,
+            "sku": "840070676459",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 28227103752243,
+                "product_id": 6595064102963,
+                "position": 1,
+                "created_at": "2021-08-24T00:24:22-04:00",
+                "updated_at": "2021-08-24T00:24:22-04:00",
+                "alt": null,
+                "width": 2000,
+                "height": 2000,
+                "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062",
+                "variant_ids": [
+                    39499987025971,
+                    39499987058739,
+                    39499987091507,
+                    39499987124275,
+                    39499987157043,
+                    39499987189811,
+                    39499987222579,
+                    39499987255347,
+                    39499987288115,
+                    39499987320883,
+                    39499987353651,
+                    39499987386419
+                ]
+            },
+            "available": true,
+            "name": "Pink Cheetah Cara Tee - Grey / 3T",
+            "public_title": "Grey / 3T",
+            "options": [
+                "Grey",
+                "3T"
+            ],
+            "price": 5500,
+            "weight": 136,
+            "compare_at_price": null,
+            "inventory_management": "shopify",
+            "barcode": "840070676459",
+            "featured_media": {
+                "alt": null,
+                "id": 20478954504243,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 2000,
+                    "width": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062"
+                }
+            },
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "quantity_price_breaks": [],
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 39499987157043,
+            "title": "Grey / 4T",
+            "option1": "Grey",
+            "option2": "4T",
+            "option3": null,
+            "sku": "840070676466",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 28227103752243,
+                "product_id": 6595064102963,
+                "position": 1,
+                "created_at": "2021-08-24T00:24:22-04:00",
+                "updated_at": "2021-08-24T00:24:22-04:00",
+                "alt": null,
+                "width": 2000,
+                "height": 2000,
+                "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062",
+                "variant_ids": [
+                    39499987025971,
+                    39499987058739,
+                    39499987091507,
+                    39499987124275,
+                    39499987157043,
+                    39499987189811,
+                    39499987222579,
+                    39499987255347,
+                    39499987288115,
+                    39499987320883,
+                    39499987353651,
+                    39499987386419
+                ]
+            },
+            "available": true,
+            "name": "Pink Cheetah Cara Tee - Grey / 4T",
+            "public_title": "Grey / 4T",
+            "options": [
+                "Grey",
+                "4T"
+            ],
+            "price": 5500,
+            "weight": 136,
+            "compare_at_price": null,
+            "inventory_management": "shopify",
+            "barcode": "840070676466",
+            "featured_media": {
+                "alt": null,
+                "id": 20478954504243,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 2000,
+                    "width": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062"
+                }
+            },
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "quantity_price_breaks": [],
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 39499987189811,
+            "title": "Grey / 5Y",
+            "option1": "Grey",
+            "option2": "5Y",
+            "option3": null,
+            "sku": "840070676473",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 28227103752243,
+                "product_id": 6595064102963,
+                "position": 1,
+                "created_at": "2021-08-24T00:24:22-04:00",
+                "updated_at": "2021-08-24T00:24:22-04:00",
+                "alt": null,
+                "width": 2000,
+                "height": 2000,
+                "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062",
+                "variant_ids": [
+                    39499987025971,
+                    39499987058739,
+                    39499987091507,
+                    39499987124275,
+                    39499987157043,
+                    39499987189811,
+                    39499987222579,
+                    39499987255347,
+                    39499987288115,
+                    39499987320883,
+                    39499987353651,
+                    39499987386419
+                ]
+            },
+            "available": true,
+            "name": "Pink Cheetah Cara Tee - Grey / 5Y",
+            "public_title": "Grey / 5Y",
+            "options": [
+                "Grey",
+                "5Y"
+            ],
+            "price": 5500,
+            "weight": 136,
+            "compare_at_price": null,
+            "inventory_management": "shopify",
+            "barcode": "840070676473",
+            "featured_media": {
+                "alt": null,
+                "id": 20478954504243,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 2000,
+                    "width": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062"
+                }
+            },
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "quantity_price_breaks": [],
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 39499987222579,
+            "title": "Grey / 6Y",
+            "option1": "Grey",
+            "option2": "6Y",
+            "option3": null,
+            "sku": "840070676480",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 28227103752243,
+                "product_id": 6595064102963,
+                "position": 1,
+                "created_at": "2021-08-24T00:24:22-04:00",
+                "updated_at": "2021-08-24T00:24:22-04:00",
+                "alt": null,
+                "width": 2000,
+                "height": 2000,
+                "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062",
+                "variant_ids": [
+                    39499987025971,
+                    39499987058739,
+                    39499987091507,
+                    39499987124275,
+                    39499987157043,
+                    39499987189811,
+                    39499987222579,
+                    39499987255347,
+                    39499987288115,
+                    39499987320883,
+                    39499987353651,
+                    39499987386419
+                ]
+            },
+            "available": true,
+            "name": "Pink Cheetah Cara Tee - Grey / 6Y",
+            "public_title": "Grey / 6Y",
+            "options": [
+                "Grey",
+                "6Y"
+            ],
+            "price": 5500,
+            "weight": 136,
+            "compare_at_price": null,
+            "inventory_management": "shopify",
+            "barcode": "840070676480",
+            "featured_media": {
+                "alt": null,
+                "id": 20478954504243,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 2000,
+                    "width": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062"
+                }
+            },
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "quantity_price_breaks": [],
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 39499987255347,
+            "title": "Grey / 7Y",
+            "option1": "Grey",
+            "option2": "7Y",
+            "option3": null,
+            "sku": "840070676497",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 28227103752243,
+                "product_id": 6595064102963,
+                "position": 1,
+                "created_at": "2021-08-24T00:24:22-04:00",
+                "updated_at": "2021-08-24T00:24:22-04:00",
+                "alt": null,
+                "width": 2000,
+                "height": 2000,
+                "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062",
+                "variant_ids": [
+                    39499987025971,
+                    39499987058739,
+                    39499987091507,
+                    39499987124275,
+                    39499987157043,
+                    39499987189811,
+                    39499987222579,
+                    39499987255347,
+                    39499987288115,
+                    39499987320883,
+                    39499987353651,
+                    39499987386419
+                ]
+            },
+            "available": true,
+            "name": "Pink Cheetah Cara Tee - Grey / 7Y",
+            "public_title": "Grey / 7Y",
+            "options": [
+                "Grey",
+                "7Y"
+            ],
+            "price": 5500,
+            "weight": 136,
+            "compare_at_price": null,
+            "inventory_management": "shopify",
+            "barcode": "840070676497",
+            "featured_media": {
+                "alt": null,
+                "id": 20478954504243,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 2000,
+                    "width": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062"
+                }
+            },
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "quantity_price_breaks": [],
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 39499987288115,
+            "title": "Grey / 8Y",
+            "option1": "Grey",
+            "option2": "8Y",
+            "option3": null,
+            "sku": "840070676503",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 28227103752243,
+                "product_id": 6595064102963,
+                "position": 1,
+                "created_at": "2021-08-24T00:24:22-04:00",
+                "updated_at": "2021-08-24T00:24:22-04:00",
+                "alt": null,
+                "width": 2000,
+                "height": 2000,
+                "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062",
+                "variant_ids": [
+                    39499987025971,
+                    39499987058739,
+                    39499987091507,
+                    39499987124275,
+                    39499987157043,
+                    39499987189811,
+                    39499987222579,
+                    39499987255347,
+                    39499987288115,
+                    39499987320883,
+                    39499987353651,
+                    39499987386419
+                ]
+            },
+            "available": true,
+            "name": "Pink Cheetah Cara Tee - Grey / 8Y",
+            "public_title": "Grey / 8Y",
+            "options": [
+                "Grey",
+                "8Y"
+            ],
+            "price": 5500,
+            "weight": 136,
+            "compare_at_price": null,
+            "inventory_management": "shopify",
+            "barcode": "840070676503",
+            "featured_media": {
+                "alt": null,
+                "id": 20478954504243,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 2000,
+                    "width": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062"
+                }
+            },
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "quantity_price_breaks": [],
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 39499987320883,
+            "title": "Grey / 10Y",
+            "option1": "Grey",
+            "option2": "10Y",
+            "option3": null,
+            "sku": "840070676398",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 28227103752243,
+                "product_id": 6595064102963,
+                "position": 1,
+                "created_at": "2021-08-24T00:24:22-04:00",
+                "updated_at": "2021-08-24T00:24:22-04:00",
+                "alt": null,
+                "width": 2000,
+                "height": 2000,
+                "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062",
+                "variant_ids": [
+                    39499987025971,
+                    39499987058739,
+                    39499987091507,
+                    39499987124275,
+                    39499987157043,
+                    39499987189811,
+                    39499987222579,
+                    39499987255347,
+                    39499987288115,
+                    39499987320883,
+                    39499987353651,
+                    39499987386419
+                ]
+            },
+            "available": true,
+            "name": "Pink Cheetah Cara Tee - Grey / 10Y",
+            "public_title": "Grey / 10Y",
+            "options": [
+                "Grey",
+                "10Y"
+            ],
+            "price": 5500,
+            "weight": 136,
+            "compare_at_price": null,
+            "inventory_management": "shopify",
+            "barcode": "840070676398",
+            "featured_media": {
+                "alt": null,
+                "id": 20478954504243,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 2000,
+                    "width": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062"
+                }
+            },
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "quantity_price_breaks": [],
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 39499987353651,
+            "title": "Grey / 12Y",
+            "option1": "Grey",
+            "option2": "12Y",
+            "option3": null,
+            "sku": "840070676411",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 28227103752243,
+                "product_id": 6595064102963,
+                "position": 1,
+                "created_at": "2021-08-24T00:24:22-04:00",
+                "updated_at": "2021-08-24T00:24:22-04:00",
+                "alt": null,
+                "width": 2000,
+                "height": 2000,
+                "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062",
+                "variant_ids": [
+                    39499987025971,
+                    39499987058739,
+                    39499987091507,
+                    39499987124275,
+                    39499987157043,
+                    39499987189811,
+                    39499987222579,
+                    39499987255347,
+                    39499987288115,
+                    39499987320883,
+                    39499987353651,
+                    39499987386419
+                ]
+            },
+            "available": true,
+            "name": "Pink Cheetah Cara Tee - Grey / 12Y",
+            "public_title": "Grey / 12Y",
+            "options": [
+                "Grey",
+                "12Y"
+            ],
+            "price": 5500,
+            "weight": 136,
+            "compare_at_price": null,
+            "inventory_management": "shopify",
+            "barcode": "840070676411",
+            "featured_media": {
+                "alt": null,
+                "id": 20478954504243,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 2000,
+                    "width": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062"
+                }
+            },
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "quantity_price_breaks": [],
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 39499987386419,
+            "title": "Grey / 14Y",
+            "option1": "Grey",
+            "option2": "14Y",
+            "option3": null,
+            "sku": "840070676428",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 28227103752243,
+                "product_id": 6595064102963,
+                "position": 1,
+                "created_at": "2021-08-24T00:24:22-04:00",
+                "updated_at": "2021-08-24T00:24:22-04:00",
+                "alt": null,
+                "width": 2000,
+                "height": 2000,
+                "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062",
+                "variant_ids": [
+                    39499987025971,
+                    39499987058739,
+                    39499987091507,
+                    39499987124275,
+                    39499987157043,
+                    39499987189811,
+                    39499987222579,
+                    39499987255347,
+                    39499987288115,
+                    39499987320883,
+                    39499987353651,
+                    39499987386419
+                ]
+            },
+            "available": true,
+            "name": "Pink Cheetah Cara Tee - Grey / 14Y",
+            "public_title": "Grey / 14Y",
+            "options": [
+                "Grey",
+                "14Y"
+            ],
+            "price": 5500,
+            "weight": 136,
+            "compare_at_price": null,
+            "inventory_management": "shopify",
+            "barcode": "840070676428",
+            "featured_media": {
+                "alt": null,
+                "id": 20478954504243,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 2000,
+                    "width": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062"
+                }
+            },
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "quantity_price_breaks": [],
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        }
+    ],
+    "images": [
+        "//cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062",
+    "options": [
+        {
+            "name": "Color",
+            "position": 1,
+            "values": [
+                "Grey"
+            ]
+        },
+        {
+            "name": "Size",
+            "position": 2,
+            "values": [
+                "12 mo",
+                "18 mo",
+                "2T",
+                "3T",
+                "4T",
+                "5Y",
+                "6Y",
+                "7Y",
+                "8Y",
+                "10Y",
+                "12Y",
+                "14Y"
+            ]
+        }
+    ],
+    "url": "/products/pink-cheetah-cara-tee-fw21",
+    "media": [
+        {
+            "alt": null,
+            "id": 20478954504243,
+            "position": 1,
+            "preview_image": {
+                "aspect_ratio": 1,
+                "height": 2000,
+                "width": 2000,
+                "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062"
+            },
+            "aspect_ratio": 1,
+            "height": 2000,
+            "media_type": "image",
+            "src": "https://cdn.shopify.com/s/files/1/0105/1892/1267/products/W221JE1085_GRY.jpg?v=1629779062",
+            "width": 2000
+        }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": []
+}

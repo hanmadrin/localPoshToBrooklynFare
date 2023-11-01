@@ -1,0 +1,26 @@
+{
+  "title": "1",
+  "description": "1",
+  "isService": "PRODUCT",
+  "cat": [
+      {
+          "category": 448,
+          "subcategory": 464
+      }
+  ],
+  "ageRestricted": "0",
+  "productImage": [],
+  "productInventory": [
+      {
+          "size": "1",
+          "weight": "1",
+          "quantity": "1",
+          "color": "",
+          "colorName": "",
+          "price": "1",
+          "discountedprice": "",
+          "salesTax": "",
+          "overSized": []
+      }
+  ]
+}

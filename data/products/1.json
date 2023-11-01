@@ -1,0 +1,28 @@
+{
+    "title": "Gillette Deodorant Arctic Ice 70ml",
+    "description": "Our Gillette Deodorant Arctic Ice 70ml offers 48-hour sweat and odor protection, ensuring you stay fresh all day. It features a fast-drying formula with a cool, refreshing scent. Its non-irritating composition is gentle on your skin, while its compact size makes it perfect for travel. Choose this for a reliable, long-lasting, and invigorating deodorant experience.",
+    "cat": [
+        {
+            "category": 15,
+            "subcategory": 366
+        }
+    ],
+    "productImage": [
+        "https://localposh-products-strore.s3.amazonaws.com/images/L8CC7LGVOGNcSeExBt0DiuFO6QUbyrBDOE76yNAr.jpg"
+    ],
+    "producInventory": [
+        {
+            "size": "70 ml",
+            "weight": "1",
+            "quantity": "1000",
+            "color": "",
+            "colorName": "",
+            "price": "5.29",
+            "discountedprice": "undefined",
+            "salesTax": "",
+            "overSized": []
+        }
+    ],
+    "isService": "PRODUCT",
+    "ageRestricted": "0"
+}

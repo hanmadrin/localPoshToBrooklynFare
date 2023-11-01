@@ -1,0 +1,29 @@
+Beverages(93770) -> 1635
+Frozen(93784) -> 1013
+Grocery(93785) -> 2901
+Dairy(93776) -> 1112
+Health & Special Diets(93777) -> 1027
+Cereal & Breakfast(93778) -> 395
+Specialty Cheese(100015) -> 340
+Fruit & Veg (93771) -> 537
+Bread & Bakery(93773) -> 242
+Meat & Seafood(93783) -> 195
+Deli(93781) -> 374
+Snacks & Sweets(93780) -> 1352
+Personal Care & Baby(93769) -> 420
+Laundry & Cleaning(93779) -> 523
+Home & Kitchen(93775) -> 258
+
+
+
+
+Frozen -> 1013
+Beverages -> 1635
+Snacks & Sweets -> 1352
+
+
+
+
+Personal Care & Baby -> 420
+Laundry & Cleaning -> 523
+Home & Kitchen -> 258

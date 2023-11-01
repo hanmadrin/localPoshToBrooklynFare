@@ -1,0 +1,242 @@
+[
+    {
+      "id": 32,
+      "name": "Corn"
+    },
+    {
+      "id": 148,
+      "name": "Vegan"
+    },
+    {
+      "id": 149,
+      "name": "Vegetarian"
+    },
+    {
+      "id": 150,
+      "name": "Healthier Options"
+    },
+    {
+      "id": 224,
+      "name": "Dairy & Eggs"
+    },
+    {
+      "id": 225,
+      "name": "Beverages, Juice & Soda"
+    },
+    {
+      "id": 226,
+      "name": "Poultry, Meat & Seafood"
+    },
+    {
+      "id": 227,
+      "name": "Chocolate Boxes"
+    },
+    {
+      "id": 228,
+      "name": "Frozen Foods"
+    },
+    {
+      "id": 229,
+      "name": "Bakery (Desserts & Pastries)"
+    },
+    {
+      "id": 230,
+      "name": "Deli by the Pound"
+    },
+    {
+      "id": 231,
+      "name": "Dry Goods & Pasta"
+    },
+    {
+      "id": 232,
+      "name": "Condiments & Sauces"
+    },
+    {
+      "id": 233,
+      "name": "Canned Goods & Soups"
+    },
+    {
+      "id": 234,
+      "name": "Cereal & Breakfast"
+    },
+    {
+      "id": 235,
+      "name": "Baking Essentials"
+    },
+    {
+      "id": 236,
+      "name": "Oils, Vinegars, & Spices"
+    },
+    {
+      "id": 237,
+      "name": "Ready Meals"
+    },
+    {
+      "id": 238,
+      "name": "Ready to Cook"
+    },
+    {
+      "id": 239,
+      "name": "Deli Ready Meals"
+    },
+    {
+      "id": 240,
+      "name": "Deli Salads & Dips"
+    },
+    {
+      "id": 241,
+      "name": "Deli Cold Cuts"
+    },
+    {
+      "id": 242,
+      "name": "Bakery (Bread & Bagels)"
+    },
+    {
+      "id": 243,
+      "name": "Kitchenware"
+    },
+    {
+      "id": 244,
+      "name": "Cooking Tools, Utensils, Pot & Pans"
+    },
+    {
+      "id": 245,
+      "name": "Produce (Vegetables, Herbs & Fruit)"
+    },
+    {
+      "id": 246,
+      "name": "Dried Beans, Peas and Lentils"
+    },
+    {
+      "id": 247,
+      "name": "Health Foods"
+    },
+    {
+      "id": 286,
+      "name": "Personal Chef Services"
+    },
+    {
+      "id": 287,
+      "name": "Meal Prep & Planning Services"
+    },
+    {
+      "id": 288,
+      "name": "Special Occasion/Event Chef Services"
+    },
+    {
+      "id": 289,
+      "name": "Catering Services"
+    },
+    {
+      "id": 290,
+      "name": "Meal Delivery Services"
+    },
+    {
+      "id": 291,
+      "name": "Corporate Meal Services"
+    },
+    {
+      "id": 354,
+      "name": "Specialty Cheese"
+    },
+    {
+      "id": 355,
+      "name": "Deli Grab & Go"
+    },
+    {
+      "id": 356,
+      "name": "Deli Fresh Sushi"
+    },
+    {
+      "id": 357,
+      "name": "World Foods"
+    },
+    {
+      "id": 358,
+      "name": "Instant Meals"
+    },
+    {
+      "id": 359,
+      "name": "Spreads"
+    },
+    {
+      "id": 360,
+      "name": "Health & Special Diets"
+    },
+    {
+      "id": 361,
+      "name": "Chips & Snacks"
+    },
+    {
+      "id": 362,
+      "name": "Cookies & Crackers"
+    },
+    {
+      "id": 363,
+      "name": "Candy & Chocolate"
+    },
+    {
+      "id": 364,
+      "name": "Fruit & Nut Snacks"
+    },
+    {
+      "id": 365,
+      "name": "Baby & Kids Food"
+    },
+    {
+      "id": 366,
+      "name": "Home & Kitchen"
+    },
+    {
+      "id": 367,
+      "name": "Disposable Items"
+    },
+    {
+      "id": 368,
+      "name": "Kitchenware"
+    },
+    {
+      "id": 369,
+      "name": "Earth Friendly Snacks"
+    },
+    {
+      "id": 370,
+      "name": "Gluten Free Snacks"
+    },
+    {
+      "id": 371,
+      "name": "Organic Snacks"
+    },
+    {
+      "id": 372,
+      "name": "Paleo Snacks"
+    },
+    {
+      "id": 373,
+      "name": "Vegan Snacks"
+    },
+    {
+      "id": 374,
+      "name": "AAPI Founded Brands"
+    },
+    {
+      "id": 375,
+      "name": "BIPOC Founded Brands"
+    },
+    {
+      "id": 376,
+      "name": "Black Founded Brands"
+    },
+    {
+      "id": 377,
+      "name": "Female Founded Brands"
+    },
+    {
+      "id": 378,
+      "name": "Latinx Founded Brands"
+    },
+    {
+      "id": 441,
+      "name": "Healthy Snacks"
+    }
+  ]

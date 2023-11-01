@@ -1,0 +1,188 @@
+{
+    "id": 448,
+    "name": "Toys & Gifts",
+    "description": "A selection of toys and gifts for kids",
+    "image": "",
+    "parentId": 0,
+    "vendorId": "0",
+    "createdAt": "2023-10-23T04:45:31.000000Z",
+    "updatedAt": "2023-10-23T12:07:20.000000Z",
+    "subCategories": [
+        {
+            "id": 449,
+            "name": "Active & Outdoors",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        },
+        {
+            "id": 450,
+            "name": "Accessories & Clothing",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        },
+        {
+            "id": 451,
+            "name": "Arts & Crafts",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        },
+        {
+            "id": 452,
+            "name": "Building Toys",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        },
+        {
+            "id": 453,
+            "name": "Dolls & Accessories",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        },
+        {
+            "id": 454,
+            "name": "Dollhouses & Accessories",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        },
+        {
+            "id": 455,
+            "name": "Figurines & Playsets",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        },
+        {
+            "id": 456,
+            "name": "Games",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        },
+        {
+            "id": 457,
+            "name": "Imaginative Play",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        },
+        {
+            "id": 458,
+            "name": "Infant Play",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        },
+        {
+            "id": 459,
+            "name": "Novelty",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        },
+        {
+            "id": 460,
+            "name": "Preschool & Toddler",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        },
+        {
+            "id": 461,
+            "name": "Puzzles",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        },
+        {
+            "id": 462,
+            "name": "Science & Learning",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        },
+        {
+            "id": 463,
+            "name": "Stuffed Animals",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        },
+        {
+            "id": 464,
+            "name": "Vehicles",
+            "description": null,
+            "image": null,
+            "parentId": 448,
+            "vendorId": null,
+            "createdAt": "2023-10-23T12:53:44.000000Z",
+            "updatedAt": "2023-10-23T12:53:44.000000Z",
+            "subCategories": []
+        }
+    ]
+}

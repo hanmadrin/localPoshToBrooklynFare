@@ -1,0 +1,145 @@
+{
+	"0": {
+		"isPrivate": false,
+		"unitResolution": 1,
+		"localBarcode": "0004113701241",
+		"isSuggested": false,
+		"lastReview": "2023-05-02T05:47:46.923Z",
+		"id": 9559205,
+		"department": {
+			"id": 78427,
+			"name": "GROCERY TAX A",
+			"externalId": 11
+		},
+		"barcode": "41137012412",
+		"brand": {
+			"id": 27092,
+			"names": {
+				"2": "Duraflame"
+			}
+		},
+		"isCoupon": false,
+		"image": {
+			"id": 2331864,
+			"url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/2556268/2331864/{{size}}.{{extension||'jpg'}}",
+			"source": 2,
+			"isSilent": false,
+			"tag": "Met Fresh 1040 Caitlyn Oct 11 2021",
+			"isDefault": true,
+			"typeId": 1,
+			"classification": "Front",
+			"uploadedOn": "2021-11-17T14:54:37.250",
+			"backupPath": "1637158914396/29554d00dc59712ae178bd0ff08266"
+		},
+		"isOnHomePageCarousel": false,
+		"original": {
+			"isWeighable": false
+		},
+		"productId": 2556268,
+		"unitOfMeasure": {
+			"id": 11,
+			"defaultName": "אוז",
+			"names": {
+				"2": "Oz",
+				"3": "onza"
+			}
+		},
+		"weight": 12,
+		"retailerId": 1422,
+		"isWeighable": false,
+		"localName": "Dura Firestart",
+		"activeDays": 20,
+		"names": {
+			"2": {
+				"short": "Firestart At Home or On-the-Go Wood Firelighters 12 ct",
+				"long": "Firestart At Home or On-the-Go Wood Firelighters Indoor Outdoor 12 ct"
+			}
+		},
+		"numberOfItems": 12,
+		"_indexTimestamp": "2023-10-31T16:26:57.912Z",
+		"family": {
+			"id": 88,
+			"retailerId": null,
+			"names": {
+				"2": {
+					"name": "BBQ & Picnic"
+				}
+			},
+			"searchKeywords": [],
+			"categoriesPaths": [
+				[
+					{
+						"id": 93775,
+						"names": {
+							"2": "Home & Kitchen",
+							"3": "\tArtículos Del Hogar Y Ocio\t"
+						},
+						"keywords": []
+					},
+					{
+						"id": 93817,
+						"names": {
+							"2": "Home",
+							"3": "Casa"
+						},
+						"keywords": []
+					},
+					{
+						"id": 93974,
+						"names": {
+							"2": "BBQ & Picnic",
+							"3": "\tBarbacoa\t"
+						},
+						"keywords": []
+					}
+				]
+			],
+			"categories": [
+				{
+					"id": 93775,
+					"names": {
+						"2": "Home & Kitchen",
+						"3": "\tArtículos Del Hogar Y Ocio\t"
+					},
+					"keywords": []
+				},
+				{
+					"id": 93817,
+					"names": {
+						"2": "Home",
+						"3": "Casa"
+					},
+					"keywords": []
+				},
+				{
+					"id": 93974,
+					"names": {
+						"2": "BBQ & Picnic",
+						"3": "\tBarbacoa\t"
+					},
+					"keywords": []
+				}
+			]
+		},
+		"isSubsidy": false,
+		"branch": {
+			"id": 2183,
+			"isForSaleExternal": true,
+			"taxAmount": 0.08875,
+			"regularPrice": 9.99,
+			"isEbtEligible": false,
+			"isEbtCashEligible": false,
+			"isActive": true,
+			"markupPercentage": 0,
+			"isOutOfStock": false,
+			"isVisible": true,
+			"posLastSellDate": "2023-10-31T00:00:00.000Z",
+			"missingCounter": 0,
+			"branchProductId": 16595721,
+			"sellDateVisibleUntil": "2023-11-20T00:00:00.000Z",
+			"aisleId": 11910,
+			"aisleName": "Aisle 6",
+			"aisleSort": 7
+		}
+	}
+}

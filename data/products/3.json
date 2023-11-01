@@ -1,0 +1,143 @@
+{
+	"0": {
+		"isPrivate": false,
+		"unitResolution": 1,
+		"localBarcode": "0004878911172",
+		"isSuggested": false,
+		"lastReview": "2016-08-01T07:07:00.000Z",
+		"id": 9532849,
+		"department": {
+			"id": 78427,
+			"name": "GROCERY TAX A",
+			"externalId": 11
+		},
+		"barcode": "48789111722",
+		"brand": {
+			"id": 20287,
+			"names": {
+				"2": "Diamond "
+			},
+			"variants": []
+		},
+		"isCoupon": false,
+		"image": {
+			"id": 93100,
+			"url": "https://d226b0iufwcjmj.cloudfront.net/items/{{size}}/104738.{{extension||'jpg'}}?v=3",
+			"source": 2,
+			"isSilent": false,
+			"tag": "monik - kosherwest",
+			"statusId": 0,
+			"isDefault": false,
+			"typeId": 1
+		},
+		"isOnHomePageCarousel": false,
+		"original": {
+			"isWeighable": false
+		},
+		"productId": 104738,
+		"unitOfMeasure": {
+			"id": 40,
+			"defaultName": "ct",
+			"names": {
+				"2": "ct",
+				"3": "unidad"
+			}
+		},
+		"weight": 75,
+		"retailerId": 1422,
+		"isWeighable": false,
+		"localName": "Diamond Matches",
+		"activeDays": 20,
+		"names": {
+			"2": {
+				"short": "Greenlight Long Reach Matches",
+				"long": "Greenlight Long Reach Matches"
+			}
+		},
+		"numberOfItems": 1,
+		"_indexTimestamp": "2023-10-21T23:43:28.140Z",
+		"family": {
+			"id": 6286,
+			"retailerId": null,
+			"names": {
+				"2": {
+					"name": "Matches & Lighters "
+				}
+			},
+			"searchKeywords": [],
+			"categoriesPaths": [
+				[
+					{
+						"id": 93775,
+						"names": {
+							"2": "Home & Kitchen",
+							"3": "\tArtículos Del Hogar Y Ocio\t"
+						},
+						"keywords": []
+					},
+					{
+						"id": 93817,
+						"names": {
+							"2": "Home",
+							"3": "Casa"
+						},
+						"keywords": []
+					},
+					{
+						"id": 93975,
+						"names": {
+							"2": "Candles & Matches",
+							"3": "\tVelas Y Partidos\t"
+						},
+						"keywords": []
+					}
+				]
+			],
+			"categories": [
+				{
+					"id": 93775,
+					"names": {
+						"2": "Home & Kitchen",
+						"3": "\tArtículos Del Hogar Y Ocio\t"
+					},
+					"keywords": []
+				},
+				{
+					"id": 93817,
+					"names": {
+						"2": "Home",
+						"3": "Casa"
+					},
+					"keywords": []
+				},
+				{
+					"id": 93975,
+					"names": {
+						"2": "Candles & Matches",
+						"3": "\tVelas Y Partidos\t"
+					},
+					"keywords": []
+				}
+			]
+		},
+		"isSubsidy": false,
+		"branch": {
+			"id": 2183,
+			"isForSaleExternal": true,
+			"taxAmount": 0.08875,
+			"regularPrice": 4.79,
+			"isEbtEligible": false,
+			"isEbtCashEligible": false,
+			"isActive": true,
+			"markupPercentage": 0,
+			"isVisible": true,
+			"posLastSellDate": "2023-10-21T00:00:00.000Z",
+			"missingCounter": 0,
+			"branchProductId": 16555169,
+			"sellDateVisibleUntil": "2023-11-10T00:00:00.000Z",
+			"aisleId": 11921,
+			"aisleName": "Register",
+			"aisleSort": 15
+		}
+	}
+}
